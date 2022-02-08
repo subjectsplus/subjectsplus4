@@ -3,4 +3,4 @@
 	url = https://umlibraries@dev.azure.com/umlibraries/SP4/_git/um-new.git
 [submodule "subjects/themes/med"]
 	path = subjects/themes/med
-	url = git@bitbucket.org:umiamiwet/med.git
+	url = https://umlibraries@dev.azure.com/umlibraries/SP4/_git/med.git
