@@ -1,2 +1,2 @@
 <?php
-echo "welcome to miami";
+echo "welcome to miami bienvenido a miami";
