@@ -8,3 +8,4 @@ echo "new glasses! yay! \n";
 echo "got no knees \n";
 echo "submodules wip";
 echo "olympics";
+echo "happy friday";
